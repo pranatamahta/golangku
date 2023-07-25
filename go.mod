@@ -1,3 +1,3 @@
-module github.com/mahta/sayhello
+module github.com/pranatamahta/golangku
 
 go 1.19
